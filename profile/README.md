@@ -1,6 +1,6 @@
 # PQ Code Package
 
-The PQ Code Package project is a new open source project that aims to build high-assurance software implementations of standards-track post-quantum cryptography algorithms.  The PQCP is a project within the [Linux Foundation](https://linuxfoundation.org/).
+The PQ Code Package project is a new open source project that aims to build high-assurance software implementations of standards-track post-quantum cryptography algorithms.  The PQCP is a project within the [Linux Foundation](https://linuxfoundation.org/) as part of the [Post-Quantum Cryptography Alliance](https://pqca.org/).
 
 ## Initial Goals
 
