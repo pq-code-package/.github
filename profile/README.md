@@ -15,10 +15,17 @@ We have interest from early participants to create or build on existing implemen
 - a Rust implementation of ML-KEM
 - an aarch64-optimized implementation of ML-KEM
 
+## Recent progress
+
+Following the [March 2024 Hackathon](https://hackathon.pqcodepackage.org/202404/2024-04-hackathon.html) implementation code is starting to be added.
+
+An initial [documentation site](https://docs.pqcodepackage.org) is also being built
+
+Finally the [first TSC will be held in May](https://github.com/pq-code-package/tsc/blob/main/meetings/index.md), from when we expect to establish a regular series of ongoing meetings as we work through refining our activities and work towards initial code release.
+
 ## Getting Involved
 
-The PQ Code Package just launched in February 2024 and we are eager to get going!  
+Our [docs site](https://docs.pqcodepackage.org/latest/contributing/asking-a-question/) has the best link to the list of chat and email options for engaging in discussions with the community - in addition to issues in our [repositories](https://docs.pqcodepackage.org/latest/contributing/repositories/)
 
-In February and March 2024, we will have some virtual and in-person meet-ups and start populating repositories on GitHub.
 
 The best way right now to indicate your interest in helping with the project and staying up-to-date on progress is to follow the pq-code-package organization on GitHub and to say hello on the [#pqcp-general channel](https://discordapp.com/channels/1202723482224295936/1203396039977996359) on [our Discord server](https://discord.gg/qRfMantKwc).
