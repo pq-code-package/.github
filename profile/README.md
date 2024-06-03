@@ -21,11 +21,15 @@ Following the [March 2024 Hackathon](https://hackathon.pqcodepackage.org/202404/
 
 An initial [documentation site](https://docs.pqcodepackage.org) is also being built
 
-Finally the [first TSC will be held in May](https://github.com/pq-code-package/tsc/blob/main/meetings/index.md), from when we expect to establish a regular series of ongoing meetings as we work through refining our activities and work towards initial code release.
+[TSC meetings](https://github.com/pq-code-package/tsc/blob/main/meetings/index.md) are now underway, and are open to anyone to join. [Voting members and lead](https://github.com/pq-code-package/tsc/blob/main/members/index.md) have been elected. Meetings are being held every two weeks on a Thursday at 1300 UTC. See the [PQCA calendar](https://pqca.org/calendar/)
+
+Some of the current issues we're thinking about include
+ - How we document and explain [assurance](https://github.com/pq-code-package/tsc/issues/3)
+ - Agreement on a [common API](https://github.com/pq-code-package/tsc/issues/4)
 
 ## Getting Involved
 
-Our [docs site](https://docs.pqcodepackage.org/latest/contributing/asking-a-question/) has the best link to the list of chat and email options for engaging in discussions with the community - in addition to issues in our [repositories](https://docs.pqcodepackage.org/latest/contributing/repositories/)
+Our [docs site](https://docs.pqcodepackage.org/latest/contributing/asking-a-question/) has the best link to the list of chat and email options for engaging in discussions with the community - in addition to issues in our [repositories](https://docs.pqcodepackage.org/latest/contributing/repositories/). [TSC issues](https://github.com/pq-code-package/tsc/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) track cross-project concerns.
 
 
 The best way right now to indicate your interest in helping with the project and staying up-to-date on progress is to follow the pq-code-package organization on GitHub and to say hello on the [#pqcp-general channel](https://discordapp.com/channels/1202723482224295936/1203396039977996359) on [our Discord server](https://discord.gg/qRfMantKwc).
